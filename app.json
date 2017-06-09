@@ -1,0 +1,9 @@
+{
+  "name": "PSP Merchant Test",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/MilanRajkumar/PSP-TEST",
+  "logo": "",
+  "success_url": "/",
+  "keywords": ["node", "express"],
+  "image": "heroku/nodejs"
+}
