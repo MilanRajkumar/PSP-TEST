@@ -3,7 +3,7 @@
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/MilanRajkumar/PSP-TEST",
   "logo": "",
-  "success_url": "/",
+  "success_url": "/screen1",
   "keywords": ["node", "express"],
   "image": "heroku/nodejs"
 }
